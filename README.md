@@ -10,4 +10,5 @@ Project ini, terdiri dari tiga tabel yang digunakan dan saling berelasi satu sam
 - Tabel Orders_1: data transaksi penjualan quarter 1 (Januari — Maret 2004)
 - Tabel Orders_2: data transaksi penjualan quarter 2 (April — Juni 2004)
 - Tabel Customer: data profil customer xyz.com
+
 Silahkan kunjungi medium saya untuk penjelasan lebih lanjutnya; https://medium.com/@almar.atussaliha/project-data-analysis-for-b2b-retail-customer-analytics-report-4318b631d36b
