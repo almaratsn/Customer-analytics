@@ -59,6 +59,6 @@ SELECT COUNT(DISTINCT customerID) as total_customers FROM customer;
 
 #Menghitung total unik customers yang transaksi di quarter_2
 SELECT COUNT(DISTINCT customerID) as total_customers FROM orders_2;
-#output = 25
+
 
 
